@@ -43,9 +43,4 @@ I built this application to offer users real-time stock price updates for **US-b
 3. Ensure you have the required **Alpha Vantage API** keys.
 4. Run the app on an emulator or a physical device.
 
-## Deliverables
-1. **Source Code**: The complete source code can be found in this GitHub repository. The app uses **MVVM**, **DI**, and **Jetpack Compose** as the core architecture.
-2. **App Features**: 
-    - Users can sign up and log in, and after login, view real-time stock prices. The app fetches **US-based stock data** using **Alpha Vantage API**, and charts historical data using **TradingView**.
-    - Mock data is displayed when the daily API limit is exceeded.
-3. **Documentation**: The project is well-documented, explaining key elements like **WebSocket setup**, REST API integration, and the trade-offs made, including the shift from WebSockets to normal APIs due to premium requirements.
+## Screenshots
