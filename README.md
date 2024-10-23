@@ -37,10 +37,13 @@ I built this application to offer users real-time stock price updates for **US-b
 - **Push Notifications**: I plan to implement push notifications for real-time stock changes in the future.
 - **Expanded Stock Listings**: I may expand the app to include non-US-based stocks in future versions.
 
-## How to Run the App
-1. Clone the repository from GitHub.
-2. Open the project in **Android Studio**.
-3. Ensure you have the required **Alpha Vantage API** keys.
-4. Run the app on an emulator or a physical device.
-
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/0af14952-525a-4417-9f4c-d6cc5caae6a7" alt="image1" width="180"/>
+<img src="https://github.com/user-attachments/assets/9dcaade6-4c6b-4887-ab57-abc989192baa" alt="image2" width="180"/>
+<img src="https://github.com/user-attachments/assets/b7bd4b82-0ad1-4867-8fa3-335b8c00c342" alt="image3" width="180"/>
+<img src="https://github.com/user-attachments/assets/d57504fc-7c31-4c01-863f-7e2150daa875" alt="image4" width="180"/>
+<img src="https://github.com/user-attachments/assets/ff98efc7-f151-4379-89dd-92259b7b4a6c" alt="image5" width="180"/>
+
+
+
+
