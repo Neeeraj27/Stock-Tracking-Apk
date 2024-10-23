@@ -30,7 +30,7 @@ I built this application to offer users real-time stock price updates for **US-b
 
 ## Challenges I Encountered
 - **WebSocket Integration**: My first priority was to implement real-time stock data via **WebSocket**. I managed to establish WebSocket connections, but unfortunately, most of the WebSocket services required premium subscriptions for historical data. Due to this, I shifted to using **Alpha Vantage API**.
-- **API Limits**: Since the **Alpha Vantage API** only allows 500 requests per day, I incorporated mock data to ensure that the app remains functional even after hitting the daily limit. However, the charts still show accurate data from the most recent API call.
+- **API Limits**: Since the **Alpha Vantage API** only allows 20 requests per day, I incorporated mock data to ensure that the app remains functional even after hitting the daily limit. However, the charts still show accurate data from the most recent API call.
 - **Push Notifications**: I originally intended to include push notifications to alert users of stock price changes in real-time, but once I switched from WebSocket to regular API calls, I decided not to implement it, as it became less critical.
 
 ## Future Enhancements
